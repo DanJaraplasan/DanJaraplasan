@@ -1,3 +1,5 @@
+![](https://github.com/DanJaraplasan/Elective-Laboratories/blob/main/laboratory%202/branding/banner/GITHUB-Banner.png).
+
 # 💫 About Me:
 I like to play League of LoL and play Goodminton
 
