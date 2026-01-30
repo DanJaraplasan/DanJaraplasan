@@ -1,4 +1,4 @@
-![](https://github.com/DanJaraplasan/Elective-Laboratories/blob/main/laboratory%202/branding/banner/GITHUB-Banner%20New.png)
+[](https://github.com/DanJaraplasan/Elective-Laboratories/blob/main/laboratory%202/branding/banner/GITHUB-Banner%20New.png)
 
 # 💫 About Me:
 I like to play League of LoL and play Goodminton
