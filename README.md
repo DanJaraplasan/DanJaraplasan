@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DanJaraplasan/Elective-Laboratories/tree/main/laboratory%202/branding/banner/GITHUB-Banner%20New.png" />
+  <img src="https://github.com/DanJaraplasan/Elective-Laboratories/blob/main/Laboratory%202/branding/banner/GITHUB-Banner%20New.png"/>
 </p>
 
 # 💫 About Me:
